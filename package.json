@@ -1,0 +1,37 @@
+{
+  "name": "unpaid-interns",
+  "version": "1.0.0",
+  "description": "A tool that installs dependencies and set-up your web environment with react + router-dom + framer-motion + react-bits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayak-repositories/unpaid-interns.git"
+  },
+  "keywords": [
+    "react",
+    "react-router-dom",
+    "react",
+    "bits",
+    "framer-motion"
+  ],
+  "author": "Vinayak Rohila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayak-repositories/unpaid-interns/issues"
+  },
+  "homepage": "https://github.com/vinayak-repositories/unpaid-interns#readme",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "execa": "^9.6.0",
+    "figlet": "^1.9.3",
+    "ora": "^9.0.0"
+  },
+  "bin": {
+    "unpaid-interns": "./bin/index.js"
+  },
+  "type": "module"
+
+}
