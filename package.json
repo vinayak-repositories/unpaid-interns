@@ -1,6 +1,6 @@
 {
   "name": "unpaid-interns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool that installs dependencies and set-up your web environment with react + router-dom + framer-motion + react-bits",
   "main": "index.js",
   "scripts": {
