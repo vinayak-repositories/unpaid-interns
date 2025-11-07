@@ -1,3 +1,3 @@
 ﻿# unpaid-interns
 
-react-vite + react-router-dom + framer-motion 
+react-vite + react-router-dom + framer-motion + other react libraries 
