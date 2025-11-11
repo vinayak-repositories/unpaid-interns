@@ -5,3 +5,8 @@ react-vite + react-router-dom + framer-motion + other react libraries
 # how to use
 
 ** npm i unpaid-interns 
+
+**yes
+**no
+**npm i
+**npm run dev
