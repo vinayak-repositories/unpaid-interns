@@ -10,3 +10,4 @@ react-vite + react-router-dom + framer-motion + other react libraries
 **no
 **npm i
 **npm run dev
+**
